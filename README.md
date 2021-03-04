@@ -9,7 +9,7 @@ IT USES:
   Lively Wallpaper: https://rocksdanister.github.io/lively/
   
   
-  Use Lively Wallpaper and choose the index.html file inside the wallpaper.
+  Install Lively Wallpaper and choose the index.html file inside the wallpaper.
   
   The config files for rainmeter are given under skins folder.
   
