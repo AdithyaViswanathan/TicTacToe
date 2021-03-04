@@ -10,6 +10,11 @@ IT USES:
   
   
   Use Lively Wallpaper and choose the index.html file inside the wallpaper.
-  The config files are given under the repository.
+  
+  The config files for rainmeter are given under skins folder.
+  
+  
+  You can paste them under your rainmeter skins folder.
+  
   
   CREDITS to the CREATOR of https://playtictactoe.org/ 
